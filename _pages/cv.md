@@ -31,15 +31,6 @@ Work experience
   * post-doctoral researcher
   * Institute of Basic Science, South Korea
   * Advisor: T. Tlusty
-  
-# Skills
-# ======
-# * Skill 1
-# * Skill 2
-#  * Sub-skill 2.1
-#  * Sub-skill 2.2
-#  * Sub-skill 2.3
-# * Skill 3
 
 Publications
 ======
