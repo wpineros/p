@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in theoretical chemistry, University of Texas at Austin, 2018
+* B.S. in Physics, State University of New York at Buffalo, 2012
+* B.A. in chemistry, City University of New York, Queens college, 2010
 
 Work experience
 ======
