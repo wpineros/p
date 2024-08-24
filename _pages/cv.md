@@ -22,10 +22,10 @@ Work experience
   * University of Luxembourg
   * Advisor: E. Fodor
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 05/2022-09/2023:
+  * Post-doctoral researcher
+  * University of Luxembourg
+  * Advisor: E. Fodor
 
 * Summer 2015: Research Assistant
   * Github University
