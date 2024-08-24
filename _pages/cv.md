@@ -11,35 +11,27 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in theoretical chemistry, University of Texas at Austin, 2018
+* B.S. in Physics, State University of New York at Buffalo, 2012
+* B.A. in chemistry, City University of New York, Queens college, 2010
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 09/2023-Present:
+  * Marie-Curie Post-doctoral Fellow
+  * University of Luxembourg
+  * Advisor: E. Fodor
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 05/2022-09/2023:
+  * Post-doctoral researcher
+  * University of Luxembourg
+  * Advisor: E. Fodor
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 04/2019-04/2022:
+  * post-doctoral researcher
+  * Institute of Basic Science, South Korea
+  * Advisor: T. Tlusty
+
 
 Publications
 ======
@@ -58,7 +50,3 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
