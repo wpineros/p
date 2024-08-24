@@ -21,7 +21,7 @@ repository               : ""
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "portrait_1.png"
+  avatar           : "portrait_1.jpg"
   name             : "William D. Pineros"
   pronouns         : # example: "she/her"  
   bio              : "MSCA Post-doctoral fellow"
