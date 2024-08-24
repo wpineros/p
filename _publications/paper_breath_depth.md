@@ -2,7 +2,7 @@
 title: "Breadth versus depth: Interactions that stabilize particle assemblies to changes in density or temperature"
 collection: publications
 category: manuscripts
-permalink: https://doi.org/10.1063/1.4942117 #publications/paper_breath_depth
+permalink: 'https://doi.org/10.1063/1.4942117'
 excerpt: ''
 date: 2016-02-13
 venue: 'Journal of Chemical Physics'
