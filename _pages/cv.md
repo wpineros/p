@@ -27,10 +27,10 @@ Work experience
   * University of Luxembourg
   * Advisor: E. Fodor
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 04/2019-04/2022:
+  * post-doctoral researcher
+  * Institute of Basic Science, South Korea
+  * Advisor: T. Tlusty
   
 Skills
 ======
