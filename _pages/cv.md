@@ -17,10 +17,10 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 09/2023-Present:
+  * Marie-Curie Post-doctoral Fellow
+  * University of Luxembourg
+  * Advisor: E. Fodor
 
 * Fall 2015: Research Assistant
   * Github University
